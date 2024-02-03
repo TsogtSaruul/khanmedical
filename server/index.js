@@ -85,3 +85,5 @@ app.listen(PORT, () => {
       .white
   );
 });
+
+export default app;
